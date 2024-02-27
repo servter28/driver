@@ -1,0 +1,220 @@
+{
+  "product": "product 4",
+  "productIconUrl": "",
+  "productIconBase64": "",
+  "additionalDetailsUrl": "",
+  "roadmapItems": [
+    {
+      "title": "milestone 0",
+      "subLabel": "Sub-label for flag 0 ",
+      "startDate": "2019-03-15T07:00:00.000Z",
+      "startDateLabel": "Mar 2019",
+      "endDate": "2019-03-24T07:00:00.000Z",
+      "endDateLabel": "Mar 2019",
+      "type": 2
+    },
+    {
+      "title": "milestone 1",
+      "subLabel": "Sub-label for flag 1 ",
+      "startDate": "2019-10-25T07:00:00.000Z",
+      "endDate": "2019-10-31T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 2",
+      "subLabel": "Sub-label for flag 2 ",
+      "startDate": "2020-07-24T07:00:00.000Z",
+      "endDate": "2020-07-29T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 3",
+      "subLabel": "Sub-label for flag 3 ",
+      "startDate": "2021-10-23T07:00:00.000Z",
+      "endDate": "2021-10-27T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 4",
+      "subLabel": "Sub-label for flag 4 ",
+      "startDate": "2022-08-03T07:00:00.000Z",
+      "endDate": "2022-08-04T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 5",
+      "subLabel": "Sub-label for flag 5 ",
+      "startDate": "2022-12-31T08:00:00.000Z",
+      "endDate": "2023-01-06T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "This one",
+      "subLabel": "Sub-label for This one ",
+      "startDate": "2023-01-01T07:00:00.000Z",
+      "endDate": "2023-01-01T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 7",
+      "subLabel": "Sub-label for flag 7 ",
+      "startDate": "2023-12-23T08:00:00.000Z",
+      "endDate": "2023-12-23T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 8",
+      "subLabel": "Sub-label for flag 8 ",
+      "startDate": "2024-06-05T07:00:00.000Z",
+      "endDate": "2024-06-11T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 9",
+      "subLabel": "Sub-label for flag 9 ",
+      "startDate": "2024-09-17T07:00:00.000Z",
+      "endDate": "2024-09-22T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 10",
+      "subLabel": "Sub-label for flag 10 ",
+      "startDate": "2025-08-26T07:00:00.000Z",
+      "endDate": "2025-08-27T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 11",
+      "subLabel": "Sub-label for flag 11 ",
+      "startDate": "2026-01-04T08:00:00.000Z",
+      "endDate": "2026-01-07T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 12",
+      "subLabel": "Sub-label for flag 12 ",
+      "startDate": "2027-02-14T08:00:00.000Z",
+      "endDate": "2027-02-23T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 13",
+      "subLabel": "Sub-label for flag 13 ",
+      "startDate": "2027-11-08T08:00:00.000Z",
+      "endDate": "2027-11-18T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 14",
+      "subLabel": "Sub-label for flag 14 ",
+      "startDate": "2028-04-05T07:00:00.000Z",
+      "endDate": "2028-04-07T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 15",
+      "subLabel": "Sub-label for flag 15 ",
+      "startDate": "2029-01-05T08:00:00.000Z",
+      "endDate": "2029-01-06T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 16",
+      "subLabel": "Sub-label for flag 16 ",
+      "startDate": "2029-06-17T07:00:00.000Z",
+      "endDate": "2029-06-21T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 17",
+      "subLabel": "Sub-label for flag 17 ",
+      "startDate": "2030-07-27T07:00:00.000Z",
+      "endDate": "2030-07-28T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 18",
+      "subLabel": "Sub-label for flag 18 ",
+      "startDate": "2031-04-25T07:00:00.000Z",
+      "endDate": "2031-04-29T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 19",
+      "subLabel": "Sub-label for flag 19 ",
+      "startDate": "2032-05-14T07:00:00.000Z",
+      "endDate": "2032-05-19T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 20",
+      "subLabel": "Sub-label for flag 20 ",
+      "startDate": "2033-06-03T07:00:00.000Z",
+      "endDate": "2033-06-08T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 21",
+      "subLabel": "Sub-label for flag 21 ",
+      "startDate": "2033-10-17T07:00:00.000Z",
+      "endDate": "2033-10-25T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 22",
+      "subLabel": "Sub-label for flag 22 ",
+      "startDate": "2034-04-22T07:00:00.000Z",
+      "endDate": "2034-04-26T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 23",
+      "subLabel": "Sub-label for flag 23 ",
+      "startDate": "2034-12-21T08:00:00.000Z",
+      "endDate": "2034-12-23T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 24",
+      "subLabel": "Sub-label for flag 24 ",
+      "startDate": "2035-04-14T07:00:00.000Z",
+      "endDate": "2035-04-21T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 25",
+      "subLabel": "Sub-label for flag 25 ",
+      "startDate": "2035-11-09T08:00:00.000Z",
+      "endDate": "2035-11-18T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 26",
+      "subLabel": "Sub-label for flag 26 ",
+      "startDate": "2037-01-17T08:00:00.000Z",
+      "endDate": "2037-01-23T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 27",
+      "subLabel": "Sub-label for flag 27 ",
+      "startDate": "2037-12-20T08:00:00.000Z",
+      "endDate": "2037-12-27T08:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 28",
+      "subLabel": "Sub-label for flag 28 ",
+      "startDate": "2038-05-09T07:00:00.000Z",
+      "endDate": "2038-05-16T07:00:00.000Z",
+      "type": 2
+    },
+    {
+      "title": "milestone 29",
+      "subLabel": "Sub-label for flag 29 ",
+      "startDate": "2038-11-20T08:00:00.000Z",
+      "endDate": "2038-11-29T08:00:00.000Z",
+      "type": 2
+    }
+  ]
+}
